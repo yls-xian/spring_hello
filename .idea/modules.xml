@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/di_xml/di_xml.iml" filepath="$PROJECT_DIR$/di_xml/di_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello_spring/hello_spring.iml" filepath="$PROJECT_DIR$/hello_spring/hello_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_hello.iml" filepath="$PROJECT_DIR$/.idea/spring_hello.iml" />
+    </modules>
+  </component>
+</project>

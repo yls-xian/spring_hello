@@ -1,0 +1,3 @@
+# Project exclude paths
+/di_xml/target/
+/hello_spring/target/
