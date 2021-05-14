@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/hello_spring/pom.xml" />
         <option value="$PROJECT_DIR$/di_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/di-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/aop-aspectj/pom.xml" />
       </list>
     </option>
   </component>

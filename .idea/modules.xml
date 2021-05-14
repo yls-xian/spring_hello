@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aop-aspectj/aop-aspectj.iml" filepath="$PROJECT_DIR$/aop-aspectj/aop-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop-leadin/aop-leadin.iml" filepath="$PROJECT_DIR$/aop-leadin/aop-leadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/di-anno/di-anno.iml" filepath="$PROJECT_DIR$/di-anno/di-anno.iml" />
       <module fileurl="file://$PROJECT_DIR$/di_xml/di_xml.iml" filepath="$PROJECT_DIR$/di_xml/di_xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello_spring/hello_spring.iml" filepath="$PROJECT_DIR$/hello_spring/hello_spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring_hello.iml" filepath="$PROJECT_DIR$/.idea/spring_hello.iml" />

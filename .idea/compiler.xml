@@ -8,9 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="di_xml" />
         <module name="hello_spring" />
+        <module name="di-anno" />
+        <module name="aop-aspectj" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aop-aspectj" target="1.8" />
+      <module name="di-anno" target="1.8" />
       <module name="di_xml" target="1.8" />
       <module name="hello_spring" target="1.8" />
     </bytecodeTargetLevel>
